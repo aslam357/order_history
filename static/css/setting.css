@@ -1,0 +1,35 @@
+.content-group {
+    margin: 16px 0;
+    display: flex;
+    align-items: center;
+}
+
+.field-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.fields {
+    width: 400px !important;
+}
+
+.inline-text {
+    margin-left: 8px;
+    font-size: 0.875em;
+    color: #555;
+}
+
+.boolean-field {
+    width: auto;
+}
+
+.setting {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.setting label {
+    margin-bottom: 4px;
+    font-weight: bold;
+}

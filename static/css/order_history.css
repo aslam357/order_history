@@ -1,0 +1,20 @@
+.o_list_view .badge-green {
+    background-color: green;
+    color: white;
+}
+.o_list_view .badge-red {
+    background-color: red;
+    color: white;
+}
+.o_list_view .badge-blue {
+    background-color: blue;
+    color: white;
+}
+.o_list_view .badge-violet {
+    background-color: violet;
+    color: white;
+}
+.o_list_view .badge-grey {
+    background-color: grey;
+    color: white;
+}
